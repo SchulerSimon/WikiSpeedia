@@ -1,0 +1,1 @@
+just Wikispeedia in java
